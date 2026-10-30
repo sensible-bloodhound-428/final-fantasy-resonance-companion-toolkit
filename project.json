@@ -1,0 +1,22 @@
+{
+  "name": "final-fantasy-resonance-companion-toolkit",
+  "displayName": "Final Fantasy Resonance Companion Toolkit",
+  "programType": "companion-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character notes",
+    "Party profiles",
+    "Activity records"
+  ],
+  "topics": [
+    "final-fantasy-resonance-companion-toolkit",
+    "final-fantasy-resonance-tools",
+    "final-fantasy-resonance-menu",
+    "final-fantasy-resonance-settings",
+    "final-fantasy-resonance-configs",
+    "final-fantasy-resonance-character-notes",
+    "final-fantasy-resonance-party-profiles"
+  ]
+}
